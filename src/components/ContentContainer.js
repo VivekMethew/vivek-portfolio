@@ -9,27 +9,30 @@ function ContentContainer() {
 					<img src={ImageProfile} alt="profile" />
 				</div>
 				<div className="about-text">
-					<h2>Hey!...</h2>
+					<h2> Hey!... </h2>
 					<p>
-						Hi Everyone!! I'm Vivek Kumar from Aligarh (U.P.) India where I work as a Full Stack Web
-						Developer at Chetu India Pvt. Ltd. I use JS-based technologies for my development process that
-						heavenly includes Node.js. At the frontend, I prefer to React but I am also comfortable with Vue
-						and Angular. I have been working for the last 2 years and wanna continue forever. I love coding,
-						it's my profession, hobby, and passion. I would love to learn python in the future if I ever
-						jump on ML and AI although I already tried Tensorflow.js in my current project and it works
-						awesome with js. In my spare time, I 💗 watching shows on Netflix. I am also a Youtuber where I
-						post videos on all the latest games launch for the PC. So no to piracy, I try to buy all of
-						them.
-						<br /> Here is the{' '}
-						<a href="https://www.youtube.com/channel/UC_rD4hWKY6qSCN-lERY6GpQ/featured" target="_blank">
+						Hi Everyone!!I 'm Vivek Kumar from Aligarh (U.P.) India where I work as a Full Stack Web
+						Developer at Hivish Technology Pvt.Ltd.I use JS - based technologies for my development process
+						that heavenly includes Node.js.At the frontend, I prefer to React but I am also comfortable with
+						Vue. I have been working for the last 2 years and wanna continue forever.I love coding, it 's my
+						profession, hobby, and passion. In my spare time, I💗 watching Movies on Netflix.I am also a
+						Youtuber where I post videos on releated to javascript and nodejs content.So no to privacy, I
+						will make more videos for implement games,blogs,some short solutions and some tutorials
+						series...
+						<br /> Here is the
+						<a
+							href="https://www.youtube.com/channel/UC_rD4hWKY6qSCN-lERY6GpQ/featured"
+							target="_blank"
+							style={{ color: 'white' }}
+						>
 							Youtube(Vivek Methew)
-						</a>{' '}
+						</a>
 						link.
 					</p>
-					<p>LIKE || SHARES || SUBSCRIBE</p>
+					<p> LIKE || SHARES || SUBSCRIBE </p>
 					<p>
-						Enjoy the content!!! I can see the gamer within you 😁. I also 💗 Black Coffee with honey(weird
-						but awesome) and sometimes Tea.
+						Enjoy the content!!!I can see the games and technology within you😁.I also💗 Hot Coffee and
+						sometimes Tea.
 					</p>
 				</div>
 			</div>
