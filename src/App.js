@@ -1,18 +1,12 @@
-import React from 'react';
-import ContentContainer from './components/ContentContainer';
-import Footer from './components/Footer';
-import HeaderContainer from './components/HeaderContainer';
-import SkillsContainer from './components/SkillsContainer';
-
+import { useState } from 'react';
+import Loader from './components/Loader';
+import Home from './pages/Home';
 function App() {
-	return (
-		<div>
-			<HeaderContainer />
-			<ContentContainer />
-			<SkillsContainer />
-			<Footer />
-		</div>
-	);
+	const [isLoading, setLoging] = useState(false);
+	setTimeout(() => {
+		setLoging(true);
+	}, 1200);
+	return <>{!isLoading ? <Loader /> : <Home />}</>;
 }
 
 export default App;
