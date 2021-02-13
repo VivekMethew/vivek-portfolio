@@ -5,12 +5,9 @@ function HeaderContainer() {
 		<div className="header">
 			<div className="container">
 				<div className="text-content">
-					<p>a Programmer</p>
-					<h1>
-						I m Vivek
-						<br />
-						<span>Kumar</span>
-					</h1>
+					<p> a Programmer </p>
+					<h3>coder</h3>
+					<h1>I m Vivek Kumar </h1>
 				</div>
 			</div>
 		</div>
