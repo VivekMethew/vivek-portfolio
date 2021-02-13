@@ -33,9 +33,6 @@
         width: 100%;
         padding: 4px;
     }
-    .footer {
-        width: 100%;
-    }
 }
 
 
@@ -67,11 +64,5 @@
     .skill-box .container {
         width: 100%;
         padding: 4px;
-    }
-    .footer {
-        max-width: 100%;
-    }
-    .footer .container {
-        max-width: 100%;
     }
 }
